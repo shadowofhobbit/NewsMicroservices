@@ -1,4 +1,4 @@
-package iuliia.questionsservice;
+package iuliia.questionsservice.questions;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

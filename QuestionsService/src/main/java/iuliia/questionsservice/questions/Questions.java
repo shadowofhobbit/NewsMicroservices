@@ -1,4 +1,4 @@
-package iuliia.questionsservice;
+package iuliia.questionsservice.questions;
 
 import java.util.Arrays;
 
